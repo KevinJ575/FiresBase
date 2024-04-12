@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254639569224",
+    "project_id": "finanzas-2520f",
+    "storage_bucket": "finanzas-2520f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254639569224:android:effe8c6e0d1f27590f1b7d",
+        "android_client_info": {
+          "package_name": "com.example.firestor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC130tLd1_DBQDC-SVlaZKvAV_5w2wCZjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254639569224:android:8170242066a9e8be0f1b7d",
+        "android_client_info": {
+          "package_name": "com.utrm.Finanza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC130tLd1_DBQDC-SVlaZKvAV_5w2wCZjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
